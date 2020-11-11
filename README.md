@@ -9,7 +9,9 @@
 ## Результаты
 ### Результаты для первых 5 итераций
 ![alt text](https://github.com/CamilaMusina/tsisa-rk/blob/main/Results/1.PNG)
+
 Результаты всех 100 итераций находятся в папке [Results](https://github.com/CamilaMusina/tsisa-rk/tree/main/Results).
 ### Результаты для последних 5 итераций
 ![alt text](https://github.com/CamilaMusina/tsisa-rk/blob/main/Results/20.PNG)
+
 По результатам выполнения программы максимумом функции является точка с координатами **x=0.0589577, y=-0.00852634**.
